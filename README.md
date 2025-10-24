@@ -2,7 +2,7 @@
 
 В этом задании мы пишем аналог unix pipeline
 
-Если кратко, то мы хотим запустить следующую цепочку:
+Мы хотим запустить следующую цепочку:
 
 ```bash
 cat emails.txt | SelectUsers | SelectMessages | CheckSpam | CombineResults
