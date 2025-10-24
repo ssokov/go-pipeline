@@ -1,4 +1,5 @@
-# VK EDUCATION GOLANG
+# vk education golang async
+
 
 В этом задании мы пишем аналог unix pipeline
 
