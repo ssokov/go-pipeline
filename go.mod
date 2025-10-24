@@ -1,4 +1,4 @@
-module github.com/ssokov/mailpipe
+module github.com/ssokov/go-pipeline
 
 go 1.25.1
 
